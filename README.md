@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Thiago!
 
-💻 Desenvolvedor em constante aprendizado, apaixonado por backend, análise de dados e criação de projetos que resolvem problemas reais.
+💻 Desenvolvedor em formação no Instituto Mauá de Tecnologia.
 
 ---
 
