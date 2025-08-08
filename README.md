@@ -24,7 +24,7 @@
 
 ---
 
-### 🌱 Sobre mim
+### Sobre mim
 - 🎯 Sempre buscando aprender algo novo
 - 📚 Atualmente estudando **Java Backend** e **Análise de Dados**
 - 🤝 Aberto a colaborações e novos desafios
