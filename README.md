@@ -1,31 +1,37 @@
-# Olá, eu sou o Thiago 👋
+## 👋 Olá, eu sou o Thiago!
 
-💻 Estudante de Ciência da Computação no Instituto Mauá de Tecnologia  
-📊 Apaixonado por backend, análise de dados e aprender algo novo todo dia  
-
----
-
-## 📈 Minhas estatísticas no GitHub
-
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-stosm&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-stosm&layout=compact&theme=tokyonight)
+💻 Desenvolvedor em constante aprendizado, apaixonado por backend, análise de dados e criação de projetos que resolvem problemas reais.
 
 ---
 
-## 🔥 Streak de Commits
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thiago-stosm&theme=tokyonight)](https://git.io/streak-stats)
+### 🚀 Tecnologias e Ferramentas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+</p>
 
 ---
 
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiago-santos-machado)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-stosm)
+### 📊 Estatísticas do GitHub
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago_stosm&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago_stosm&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 ---
 
-> *Estatísticas geradas automaticamente por [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) e [streak-stats](https://git.io/streak-stats).*
+### 🌱 Sobre mim
+- 🎯 Sempre buscando aprender algo novo
+- 📚 Atualmente estudando **Java Backend** e **Análise de Dados**
+- 🤝 Aberto a colaborações e novos desafios
+
+---
+⭐ Inspirado por [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) e [Devicon](https://devicon.dev/)
+
 
 
 
