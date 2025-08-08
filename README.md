@@ -25,7 +25,7 @@
 ---
 
 ### Sobre mim
-- Sempre buscando aprender algo novo
+- Em constante aprendizado
 - Atualmente estudando **Java Backend** e **Análise de Dados**
 - Aberto a colaborações e novos desafios
 
