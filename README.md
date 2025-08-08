@@ -1,10 +1,10 @@
 ## 👋 Olá, eu sou o Thiago!
 
- Desenvolvedor em formação no Instituto Mauá de Tecnologia.
+💻 Desenvolvedor em constante aprendizado, apaixonado por backend, análise de dados e criação de projetos que resolvem problemas reais.
 
 ---
 
-### Tecnologias e Ferramentas
+### 🚀 Tecnologias e Ferramentas
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -16,19 +16,20 @@
 
 ---
 
-### Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-stosm&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-stosm&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago_stosm&show_icons=true&theme=graywhite&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago_stosm&layout=compact&langs_count=7&theme=graywhite&hide_border=true"/>
 </p>
 
 ---
 
-### Sobre mim
-- Em constante aprendizado
-- Atualmente estudando **Java Backend** e **Análise de Dados**
-- Aberto a colaborações e novos desafios
+### 🌱 Sobre mim
+- 🎯 Sempre buscando aprender algo novo
+- 📚 Atualmente estudando **Java Backend** e **Análise de Dados**
+- 🤝 Aberto a colaborações e novos desafios
 
 ---
+⭐ Inspirado por [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) e [Devicon](https://devicon.dev/)
 
 
