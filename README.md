@@ -1,28 +1,31 @@
-## Olá! Eu sou o Thiago Santos Machado 👋
+# Olá, eu sou o Thiago 👋
 
-- Desenvolvedor em formação: Instituto Mauá de Tecnologia
+💻 Estudante de Ciência da Computação no Instituto Mauá de Tecnologia  
+📊 Apaixonado por backend, análise de dados e aprender algo novo todo dia  
 
-##
+---
 
-### Estatísticas
+## 📈 Minhas estatísticas no GitHub
 
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thiago_stosm&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-stosm&show_icons=true&theme=tokyonight)
 
-## 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-stosm&layout=compact&theme=tokyonight)
 
-### Linguagens
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago_stosm&hide_progress=true&theme=radical)
+## 🔥 Streak de Commits
 
-<div style="display: inline-block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=thiago-stosm&theme=tokyonight)](https://git.io/streak-stats)
 
-##
+---
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-santos-machado/)
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiago-stosm)
+
+---
+
+> *Estatísticas geradas automaticamente por [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) e [streak-stats](https://git.io/streak-stats).*
+
+
+
