@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Thiago!
 
-💻 Desenvolvedor em formação no Instituto Mauá de Tecnologia.
+ Desenvolvedor em formação no Instituto Mauá de Tecnologia.
 
 ---
 
