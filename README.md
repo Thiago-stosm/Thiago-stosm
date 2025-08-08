@@ -6,13 +6,13 @@
 
 ### Estatísticas
 
-![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gustavoribolla&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
+![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=thiago_stosm&show_icons=true&hide_rank=true&theme=radical&hide=stars,prs_reviewed&show=reviews,prs_merged_percentage&count_private=true)
 
 ## 
 
 ### Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosantos&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago_stosm&hide_progress=true&theme=radical)
 
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" />
