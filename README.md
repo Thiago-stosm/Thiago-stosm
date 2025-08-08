@@ -12,7 +12,7 @@
 
 ### Linguagens
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoribolla&hide_progress=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosantos&hide_progress=true&theme=radical)
 
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" />
@@ -25,5 +25,4 @@
 
 ##
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gustavo_ribolla)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoribolla)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-santos-machado/)
