@@ -18,9 +18,3 @@ Tenho aptidão a desenvolvimento de aplicações de software Backend e Data Cien
 </p>
 
 ---
-
-###   Estatísticas do GitHub
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiago-stosm&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-stosm&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
-</p>
