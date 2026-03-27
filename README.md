@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Thiago!
+## Thiago Santos Machado
 
 ## Sobre mim
 
