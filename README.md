@@ -39,8 +39,3 @@ Busco evoluir constantemente em fundamentos de engenharia de software, performan
 </p>
 
 ---
-
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/thiago-santos-machado/)
-- 🐙 [GitHub](https://github.com/ThiagoSMachado)
