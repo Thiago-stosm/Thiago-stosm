@@ -13,9 +13,8 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Ciência da Computação no **Instituto Mauá de Tecnologia** (São Caetano do Sul – SP), com foco em desenvolvimento backend, análise de dados e infraestrutura.
-
-Tenho interesse em construção de APIs robustas com Java e Spring Boot, modelagem de banco de dados relacional, arquitetura de sistemas e ambientes conteinerizados. Busco conectar fundamentos de engenharia de software com aplicação prática em projetos reais.
+Sou estudante de Ciência da Computação no Instituto Mauá de Tecnologia, com atuação prática em backend, dados e infraestrutura. No dia a dia, transito entre produto e engenharia na Neomind Learning, lidero infraestrutura como voluntário na Mental Care Colombia — onde cuido de ambientes conteinerizados com Docker, K3s e AWS — e desenvolvo experiência ampla no ecossistema de software pela Dev Community Mauá.
+Tenho interesse especial em design de sistemas, arquitetura de APIs e infraestrutura escalável. Gosto de entender problemas fundo antes de escrever código, e de conectar decisões técnicas com impacto real para quem usa o produto.
 
 ---
 
