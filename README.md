@@ -24,7 +24,7 @@ Tenho interesse especial em design de sistemas, arquitetura de APIs e infraestru
 |---|---|---|
 | Product & Data | Neomind Learning | Trabalho |
 | Head de Infraestrutura | Mental Care Colombia | Voluntário |
-| Trainee Dev | Dev Community Mauá | Trainee |
+| Trainee Dev | Dev Community Mauá | Desenvolvedor Backend |
 
 > **Mental Care Colombia** é uma organização sem fins lucrativos dedicada ao apoio psicológico de imigrantes hispanofalantes no Brasil e na Colômbia. Contribuo como Head de Infraestrutura, liderando planejamento de ambientes conteinerizados, arquitetura de sistemas e infraestrutura em nuvem.
 
