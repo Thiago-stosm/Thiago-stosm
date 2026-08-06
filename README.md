@@ -11,14 +11,14 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Sou estudante de Ciência da Computação no Instituto Mauá de Tecnologia, com atuação prática em backend, dados e infraestrutura. No dia a dia, transito entre produto e análise de dados na startup Neomind Learning, lidero infraestrutura e desenvolvimento como voluntário na ONG Mental Care Colombia, onde cuido de ambientes conteinerizados com Docker, K3s e AWS, e desenvolvo experiência ampla no ecossistema de software pela Dev Community Mauá.
 Tenho interesse especial em design de sistemas, arquitetura de APIs e infraestrutura escalável. Gosto de entender problemas fundo antes de escrever código, e de conectar decisões técnicas com impacto real para quem usa o produto.
 
 ---
 
-## 💼 Experiências
+## Experiências
 
 | Papel | Organização | Tipo |
 |---|---|---|
@@ -30,7 +30,7 @@ Tenho interesse especial em design de sistemas, arquitetura de APIs e infraestru
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
