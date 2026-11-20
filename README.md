@@ -2,51 +2,36 @@
 
 # Thiago Santos Machado
 
-**Backend Engineering · Data · Infrastructure**
-
-Ciência da Computação — Instituto Mauá de Tecnologia
+**Backend Engineer · Data · Infrastructure**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-santos-machado/)
-[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:thiagosm2006@gmail.com)
 
 </div>
 
 ---
 
-### Sobre
+### Sobre mim
 
-Estudante de Ciência da Computação com atuação prática em backend, dados e infraestrutura. Trabalho com modelagem e estruturação de dados na Neomind Learning, lidero a infraestrutura da ONG Mental Care Colombia e desenvolvo sistemas backend na Dev Community Mauá.
+Sou estudante de Ciência da Computação no Instituto Mauá de Tecnologia, com atuação prática em backend, dados e infraestrutura. No dia a dia, transito entre produto e análise de dados na startup **Neomind Learning**, lidero infraestrutura e desenvolvimento como voluntário na ONG **Mental Care Colombia**, onde cuido de ambientes conteinerizados com Docker, K3s e AWS, e desenvolvo experiência ampla no ecossistema de software pela **Dev Community Mauá**.
 
-Meus principais interesses são design de sistemas, arquitetura de APIs e infraestrutura escalável. Busco entender o problema a fundo antes de escrever código e conectar decisões técnicas ao impacto para quem usa o produto.
+Tenho interesse especial em design de sistemas, arquitetura de APIs e infraestrutura escalável. Gosto de entender problemas a fundo antes de escrever código e de conectar decisões técnicas com impacto real para quem usa o produto.
 
-### Experiência
+### Experiências
 
-| Organização | Papel | Foco |
+| Organização | Papel | Tipo |
 |---|---|---|
-| **Neomind Learning** | Business Analyst (Product & Data) | Modelagem de dados, SQL (Amazon Athena), dashboards de KPIs |
-| **Mental Care Colombia** | Head de Infraestrutura · Full Stack (voluntário) | Arquitetura, K3s e Traefik na AWS, React/Vue + FastAPI |
-| **Dev Community Mauá** | Backend Developer | Microsserviços em FastAPI, autenticação, Scrum |
+| **Neomind Learning** | Product & Data | Trabalho |
+| **Mental Care Colombia** | DevOps/Backend | Voluntário |
+| **Dev Community Mauá** | Backend Developer | Desenvolvedor Backend |
 
-<sub>A Mental Care Colombia é uma organização sem fins lucrativos que oferece apoio psicológico a imigrantes hispanofalantes no Brasil e na Colômbia.</sub>
+<sub>A <b>Mental Care Colombia</b> é uma organização sem fins lucrativos dedicada ao apoio psicológico de imigrantes hispanofalantes no Brasil e na Colômbia. Contribuo como Head de Infraestrutura, liderando o planejamento de ambientes conteinerizados, a arquitetura de sistemas e a infraestrutura em nuvem.</sub>
 
-### Tecnologias
+### Tecnologias e Ferramentas
 
 | Área | Ferramentas |
 |---|---|
-| Backend | <img src="https://skillicons.dev/icons?i=python,java,fastapi,flask,spring,hibernate,maven" height="32" /> |
-| Dados | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="32" /> &nbsp;Amazon Athena · pandas · Preset |
-| Infraestrutura | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" height="32" /> |
-| Frontend | <img src="https://skillicons.dev/icons?i=ts,js,react,vue,flutter" height="32" /> |
-
-### Certificações
-
-- AWS Academy Graduate: Data Engineering (2026)
-- AWS Academy Graduate: Cloud Foundations (2025)
-- IBM: Cloud Computing Fundamentals (2025)
-- IBM: Web Development Fundamentals (2025)
-
-<div align="center">
-<br>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Thiago-stosm&show_icons=true&hide_border=true&hide_title=true&theme=default" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-stosm&layout=compact&hide_border=true&theme=default" />
-</div>
+| Linguagens | <img src="https://skillicons.dev/icons?i=java,python,js" height="32" /> |
+| Frameworks | <img src="https://skillicons.dev/icons?i=spring,fastapi,hibernate,maven" height="32" /> |
+| Bancos de dados | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="32" /> |
+| Infraestrutura | <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux" height="32" /> |
+| Ferramentas | <img src="https://skillicons.dev/icons?i=postman" height="32" /> |
