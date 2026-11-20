@@ -15,7 +15,7 @@ Ciência da Computação — Instituto Mauá de Tecnologia
 
 ### Sobre
 
-Estudante de Ciência da Computação com atuação prática em backend, dados e infraestrutura. Trabalho com modelagem e estruturação de dados na Neomind Learning, lidero a infraestrutura da ONG Mental Care Colombia e desenvolvo microsserviços na Dev Community Mauá.
+Estudante de Ciência da Computação com atuação prática em backend, dados e infraestrutura. Trabalho com modelagem e estruturação de dados na Neomind Learning, lidero a infraestrutura da ONG Mental Care Colombia e desenvolvo sistemas backend na Dev Community Mauá.
 
 Meus principais interesses são design de sistemas, arquitetura de APIs e infraestrutura escalável. Busco entender o problema a fundo antes de escrever código e conectar decisões técnicas ao impacto para quem usa o produto.
 
