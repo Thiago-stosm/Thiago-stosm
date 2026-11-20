@@ -1,8 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Thiago%20Santos%20Machado&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+
 <div align="center">
 
-# Thiago Santos Machado
-
-**Backend Engineer · Data · Infrastructure**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=2C5364&center=true&vCenter=true&width=500&lines=Backend+Engineer;Data;Infrastructure" alt="Backend Engineer · Data · Infrastructure" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-santos-machado/)
 
