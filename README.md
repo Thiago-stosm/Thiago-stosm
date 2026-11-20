@@ -2,48 +2,51 @@
 
 # Thiago Santos Machado
 
-**Backend Engineer · Data · Infrastructure**
+**Backend Engineering · Data · Infrastructure**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-santos-machado/)
+Ciência da Computação — Instituto Mauá de Tecnologia
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-santos-machado/)
+[![Email](https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:thiagosm2006@gmail.com)
 
 </div>
 
 ---
 
-## Sobre mim
+### Sobre
 
-Sou estudante de Ciência da Computação no Instituto Mauá de Tecnologia, com atuação prática em backend, dados e infraestrutura. No dia a dia, transito entre produto e análise de dados na startup Neomind Learning, lidero infraestrutura e desenvolvimento como voluntário na ONG Mental Care Colombia, onde cuido de ambientes conteinerizados com Docker, K3s e AWS, e desenvolvo experiência ampla no ecossistema de software pela Dev Community Mauá.
-Tenho interesse especial em design de sistemas, arquitetura de APIs e infraestrutura escalável. Gosto de entender problemas fundo antes de escrever código, e de conectar decisões técnicas com impacto real para quem usa o produto.
+Estudante de Ciência da Computação com atuação prática em backend, dados e infraestrutura. Trabalho com modelagem e estruturação de dados na Neomind Learning, lidero a infraestrutura da ONG Mental Care Colombia e desenvolvo microsserviços na Dev Community Mauá.
 
----
+Meus principais interesses são design de sistemas, arquitetura de APIs e infraestrutura escalável. Busco entender o problema a fundo antes de escrever código e conectar decisões técnicas ao impacto para quem usa o produto.
 
-## Experiências
+### Experiência
 
-| Papel | Organização | Tipo |
+| Organização | Papel | Foco |
 |---|---|---|
-| Product & Data | Neomind Learning | Trabalho |
-| DevOps/Backend | Mental Care Colombia | Voluntário |
-| Backend Developer | Dev Community Mauá | Desenvolvedor Backend |
+| **Neomind Learning** | Business Analyst (Product & Data) | Modelagem de dados, SQL (Amazon Athena), dashboards de KPIs |
+| **Mental Care Colombia** | Head de Infraestrutura · Full Stack (voluntário) | Arquitetura, K3s e Traefik na AWS, React/Vue + FastAPI |
+| **Dev Community Mauá** | Backend Developer | Microsserviços em FastAPI, autenticação, Scrum |
 
-> **Mental Care Colombia** é uma organização sem fins lucrativos dedicada ao apoio psicológico de imigrantes hispanofalantes no Brasil e na Colômbia. Contribuo como Head de Infraestrutura, liderando planejamento de ambientes conteinerizados, arquitetura de sistemas e infraestrutura em nuvem.
+<sub>A Mental Care Colombia é uma organização sem fins lucrativos que oferece apoio psicológico a imigrantes hispanofalantes no Brasil e na Colômbia.</sub>
 
----
+### Tecnologias
 
-## Tecnologias e Ferramentas
+| Área | Ferramentas |
+|---|---|
+| Backend | <img src="https://skillicons.dev/icons?i=python,java,fastapi,flask,spring,hibernate,maven" height="32" /> |
+| Dados | <img src="https://skillicons.dev/icons?i=postgres,mysql" height="32" /> &nbsp;Amazon Athena · pandas · Preset |
+| Infraestrutura | <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git" height="32" /> |
+| Frontend | <img src="https://skillicons.dev/icons?i=ts,js,react,vue,flutter" height="32" /> |
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="K3s/Kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS EC2" width="40" height="40"/>
-</p>
+### Certificações
+
+- AWS Academy Graduate: Data Engineering (2026)
+- AWS Academy Graduate: Cloud Foundations (2025)
+- IBM: Cloud Computing Fundamentals (2025)
+- IBM: Web Development Fundamentals (2025)
+
+<div align="center">
+<br>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Thiago-stosm&show_icons=true&hide_border=true&hide_title=true&theme=default" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago-stosm&layout=compact&hide_border=true&theme=default" />
+</div>
